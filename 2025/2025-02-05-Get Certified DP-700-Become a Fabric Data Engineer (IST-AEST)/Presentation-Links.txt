@@ -1,0 +1,35 @@
+Series Link
+https://developer.microsoft.com/en-us/reactor/series/S-1458/
+*************************************************************************************************************
+
+Presenter
+DP-700: Get started with data engineering on Microsoft Fabric (IST/AEST)
+https://developer.microsoft.com/en-us/reactor/events/24706/
+https://www.youtube.com/watch?v=QWIZFwiZf6s
+Streamed live on 5 Feb 2025
+
+*************************************************************************************************************
+
+Presenter
+DP-700: Implement real-time intelligence in Microsoft Fabric (IST/AEST)
+https://developer.microsoft.com/en-us/reactor/events/24708/
+https://www.youtube.com/watch?v=QWIZFwiZf6s
+Streamed live on 12 Feb 2025
+
+*************************************************************************************************************
+
+Presenter
+DP-700: Microsoft Fabric administration and governance (IST/AEST)
+https://developer.microsoft.com/en-us/reactor/events/24711/
+https://youtu.be/5Kk9mZic-aw
+Streamed live on 20 Feb 2025
+
+*************************************************************************************************************
+
+Moderated session
+Prepare for exam day and open Q&A (DP-700)
+https://developer.microsoft.com/en-us/reactor/events/24771/
+https://youtu.be/0uCuLj4t7go
+Streamed live on 27 Feb 2025
+
+*************************************************************************************************************

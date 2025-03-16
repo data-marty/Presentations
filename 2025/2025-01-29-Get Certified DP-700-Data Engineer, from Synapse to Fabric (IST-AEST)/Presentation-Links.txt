@@ -1,0 +1,15 @@
+Link for participation in "Synapse to Fabric: (DP-700)" Series
+
+*****************************************************************************************************************
+
+From Synapse to Fabric: Monitor and Optimize Your Solutions (DP-700) (IST/AEST)
+https://developer.microsoft.com/en-us/reactor/events/24586/
+https://www.youtube.com/watch?v=IbhOkR7ST0g
+
+*****************************************************************************************************************
+
+From Synapse to Fabric: Ingest and Transform Data (DP-700) (IST/AEST)
+https://developer.microsoft.com/en-us/reactor/events/24585/
+https://www.youtube.com/watch?v=alf54L6LyjI
+
+*****************************************************************************************************************
